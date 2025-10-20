@@ -42,8 +42,8 @@ Want to test immediately? The app works in **demo mode** without Freighter:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/minidonaa.git
-cd minidonaa
+git clone https://github.com/mikayil-c/mini-dona.git
+cd mini-dona
 
 # 2. Install dependencies
 npm install
@@ -390,9 +390,10 @@ MIT License - see LICENSE file for details
    - Look for `[DEMO]` or `[FREIGHTER]` log messages
    - Check network tab for API calls
 
-4. **Ask for help**:
-   - Create a GitHub issue
-   - Include error messages and browser console logs
+4. **Contact**:
+   - GitHub: [@mikayil-c](https://github.com/mikayil-c)
+   - Email: mikayil.cifci5555@gmail.com
+   - Issues: [GitHub Issues](https://github.com/mikayil-c/mini-dona/issues)
 
 ---
 
@@ -410,4 +411,4 @@ MIT License - see LICENSE file for details
 
 ---
 
-**Built with ❤️ using Stellar Soroban • [Star us on GitHub!](https://github.com/yourusername/minidonaa)**
+**Built with ❤️ using Stellar Soroban • [Star us on GitHub!](https://github.com/mikayil-c/mini-dona)**
